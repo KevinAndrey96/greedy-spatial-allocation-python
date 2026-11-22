@@ -100,8 +100,8 @@ OK
 
 1. **Clonar repositorio:**
    ```bash
-   git clone https://github.com/KevinAndrey96/nests.git
-   cd nests
+   git clone https://github.com/KevinAndrey96/greedy-spatial-allocation-python.git
+   cd greedy-spatial-allocation-python
    ```
 
 2. **Ejecutar simulación:**
