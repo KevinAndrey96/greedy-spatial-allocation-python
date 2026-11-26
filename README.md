@@ -100,8 +100,8 @@ OK
 
 1. **Clonar repositorio:**
    ```bash
-   git clone https://github.com/KevinAndrey96/greedy-spatial-allocation-python.git
-   cd greedy-spatial-allocation-python
+   git clone https://github.com/KevinAndrey96/python-greedy-spatial-allocation.git
+   cd python-greedy-spatial-allocation
    ```
 
 2. **Ejecutar simulación:**
